@@ -14,10 +14,10 @@ Louise's first play 'Fever' came close to accomplishing its fundraising goal on 
 
 One way to determine success of a campaign is based on percentage of success based off of the goal amount. When reviewing the kickstarter campaigns that have been successful in the past, having a goal betwee $0 and $14,999 or $40,000 and $44,999 shows to have a success over 50% of accomplishing your goal. To have the best success in reaching your goals it would be best to stay within these ranges. The fail rates rise over 60% with goals between $25,000 and $39,999.
  
- ## Challenges and Difficulties Encountered
+ #### Challenges and Difficulties Encountered
  During the analysis there were not many difficulties putting the data together. One of the main areas to look at anytime data is first visualized is to determine does the information make sense. What are the first impressions and can you get a feel of what is being described. As those gut checks occur you can continue to move on to the next steps before reviewing the data as a whole. Specifically to this analysis the areas of difficulty can arise from formulas being created to determine percentages of success by month and category. Each time additional criteria is added to formulas there is an increased risk for selecting the wrong variables or inputting the incorrect if statements and requirements.
  
-##Limitations
+#### Limitations
 This Kickstarter data set has valuable information for a 8 year period from 2009 to 2017. As we continue into 2021 if Louise is wanted to start a campaign now it would be important to included campaign outcomes and success since 2020 began. As the pandemic has effected everything in our lives there is a good chance that it has also effected campaign outcomes for plays. In addition, this is one data set from one campaign funding source. It would be important to determine what other approaches, either website or service, could be used to raise money. Then determine if outcomes have the same trend in those services. For example, are there some fundraising websites that may be better if Louise wanted to fundraise for a play over $50,000.  Is there a way to have a campaign to be more successful in the winter months so plays could be performed in summer months?  By getting more recent data to assess pandemic effects and data from other sources Louise can narrow down her focus to have a successful campaign for her play. 
 
 ##Recommendations
