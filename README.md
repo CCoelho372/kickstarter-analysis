@@ -6,11 +6,13 @@ Louise's first play 'Fever' came close to accomplishing its fundraising goal on 
 ## Analysis and Challenges
 
 #### Analysis of Outcomes Based on Launch Date
+![Figure 1. Outcomes Based on Launch Date](https://github.com/CCoelho372/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
  A second factor to determine success is based off of launch date. While evaluating the Kickstarter Campaign data, the most successful times to have a launch date is from May to July. These are the only 3 months in which the number of successful campaigns rises above 75. Another area to consider is that the range of failed campaignes remains consistent between 33 and 52 campaigns a month throughout the year. When the failure stays mainly consistent it is good to identify when the most successful months are for a campaign.
 
 
 #### Analysis of Outcomes Based on Goals
+![Figure 2. Outcomes Based on Goals](https://github.com/CCoelho372/kickstarter-analysis/blob/main/Theater_Outcomes_Goals.png)
 
 One way to determine success of a campaign is based on percentage of success based off of the goal amount. When reviewing the kickstarter campaigns that have been successful in the past, having a goal betwee $0 and $14,999 or $40,000 and $44,999 shows to have a success over 50% of accomplishing your goal. To have the best success in reaching your goals it would be best to stay within these ranges. The fail rates rise over 60% with goals between $25,000 and $39,999.
  
